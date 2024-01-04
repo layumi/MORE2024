@@ -15,7 +15,7 @@ author_profile: false
  
  <div align='center' > 
   <h2> Workshop on </h2>
-  <h2> Multimedia Retrieval, Object Re-identification, Representation Learning, Deep Metric Learning, Multi-view Generation (MORE 2024)
+  <h2> Multimedia Retrieval, Object Re-identification, Representation Learning, Deep Metric Learning, Multi-view Generation (MORE 2024) </h2>
  </div>
 
 The accept papers will be published at ACM ICMR Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
