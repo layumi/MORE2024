@@ -1,7 +1,7 @@
 ---
 title: "MORE 2024"
 collection: pages
-permalink: /ICMR2024Workshop
+permalink: /MORE2024
 author_profile: false
 ---
 
@@ -22,3 +22,34 @@ The accept papers will be published at ACM ICMR Workshop (top 50%), and go throu
 
 [[Accepted Workshop Proposal]](https://zdzheng.xyz/files/ICMR24_Workshop_Object_Re_ID.pdf)
 [[Submission Site]](Pending)
+
+
+## News
+
+## Abstract
+Object re-identification (or object re-ID) has gained significant attention in recent years, fueled by the increasing demand for advanced video analysis and safety systems. In object
+re-identification, a query can be of different modalities, such as
+an image, a video, or natural language, containing or
+describing the object of interest. 
+This workshop aims to bring together researchers, practitioners, and enthusiasts interested in object re-identification to delve into the latest advancements, challenges, and opportunities in this dynamic field. The workshop covers a spectrum of topics related to object re-identification, including but not limited to deep metric learning, multi-view data generation, video-based object re-identification, cross-domain object re-identification and real-world applications.
+The workshop provides a platform for researchers to showcase their work, exchange ideas, and foster potential collaborations. Additionally, it serves as a valuable opportunity for practitioners to stay abreast of the latest developments in object re-identification technology.
+Overall, this workshop creates a unique space to explore the rapidly evolving field of object re-identification and its profound impact on advancing the capabilities of multimedia analysis and retrieval.
+
+**The list of possible topics includes, but is not limited to:**
+* New Datasets and Benchmarks
+* Deep Metric Learning
+* Multi-view Data Generation
+* Video-based Object Re-identification
+* Cross-domain Object Re-identification
+* Object Re-identification Domain Adaptation / Generalization
+* Single/ Multiple Object Tracking
+* Object Geo-localization
+* Multimedia Re-ranking 
+
+## Organizing Team
+
+| <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> |<img src="https://zdzheng.xyz/files/yaxiong-wang.jpeg" width="160"> |<img src="https://github.com/layumi/MORE2024/assets/8390471/e94638ca-b2a7-4bc6-8c0f-f36228286e4b" width="160"> |
+| :-: | :-: | :-: |
+|  [Zhedong Zheng](https://zdzheng.xyz), University of Macau, China | [Yaxiong Wang](https://dblp.org/pid/202/3251.html), Hefei University of Technology, China | [Xuelin Qian](https://naiq.github.io/), Fudan University, China |
+| <img src="https://zdzheng.xyz/files/zhun-zhong.jpeg" width="160"> |  <img src="https://github.com/layumi/MORE2024/assets/8390471/b24e6c16-4bf2-4393-80d4-501cf817518e" width="160"> | <img src="https://zdzheng.xyz/files/liang-zheng.jpeg" width="160"> | 
+|  [Zhun Zhong](https://zhunzhong.site), University of Nottingham, United Kingdom |  [Zheng Wang](https://wangzwhu.github.io/home/), Wuhan University, China |  [Liang Zheng](https://zheng-lab.cecs.anu.edu.au), Australian National University, Australia | 
