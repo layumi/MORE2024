@@ -15,7 +15,7 @@ author_profile: false
  
  <div align='center' > 
   <h2> Workshop on </h2>
-  <h2> Multimedia Retrieval, Object Re-identification, Representation Learning, Deep Metric Learning, Multi-view Generation (MORE 2024) </h2>
+  <h2>  Multimedia Object Re-ID: Advancements, Challenges, and Opportunities (MORE 2024) </h2>
  </div>
 
 The accept papers will be published at ACM ICMR Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
@@ -28,12 +28,12 @@ The accept papers will be published at ACM ICMR Workshop (top 50%), and go throu
 
 ## Abstract
 Object re-identification (or object re-ID) has gained significant attention in recent years, fueled by the increasing demand for advanced video analysis and safety systems. In object
-re-identification, a query can be of different modalities, such as
-an image, a video, or natural language, containing or
-describing the object of interest. 
+re-identification, a query can be of different modalities, such as an image, a video, or natural language, containing or describing the object of interest. 
 This workshop aims to bring together researchers, practitioners, and enthusiasts interested in object re-identification to delve into the latest advancements, challenges, and opportunities in this dynamic field. The workshop covers a spectrum of topics related to object re-identification, including but not limited to deep metric learning, multi-view data generation, video-based object re-identification, cross-domain object re-identification and real-world applications.
 The workshop provides a platform for researchers to showcase their work, exchange ideas, and foster potential collaborations. Additionally, it serves as a valuable opportunity for practitioners to stay abreast of the latest developments in object re-identification technology.
 Overall, this workshop creates a unique space to explore the rapidly evolving field of object re-identification and its profound impact on advancing the capabilities of multimedia analysis and retrieval.
+
+**Key Words**  Multimedia Retrieval, Object Re-identification, Representation Learning, Deep Metric Learning, Multi-view Generation 
 
 **The list of possible topics includes, but is not limited to:**
 * New Datasets and Benchmarks
