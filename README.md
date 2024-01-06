@@ -53,3 +53,15 @@ Overall, this workshop creates a unique space to explore the rapidly evolving fi
 |  [Zhedong Zheng](https://zdzheng.xyz), University of Macau, China | [Yaxiong Wang](https://dblp.org/pid/202/3251.html), Hefei University of Technology, China | [Xuelin Qian](https://naiq.github.io/), Fudan University, China |
 | <img src="https://zdzheng.xyz/files/zhun-zhong.jpeg" width="160"> |  <img src="https://github.com/layumi/MORE2024/assets/8390471/b24e6c16-4bf2-4393-80d4-501cf817518e" width="160"> | <img src="https://zdzheng.xyz/files/liang-zheng.jpeg" width="160"> | 
 |  [Zhun Zhong](https://zhunzhong.site), University of Nottingham, United Kingdom |  [Zheng Wang](https://wangzwhu.github.io/home/), Wuhan University, China |  [Liang Zheng](https://zheng-lab.cecs.anu.edu.au), Australian National University, Australia | 
+
+
+## Workshop Citation
+```
+@inproceedings{zheng2024MORE,
+  title={MORE'24 Multimedia Object Re-ID: Advancements, Challenges, and Opportunities},
+  author={Zheng, Zhedong and Wang, Yaxiong and Qian, Xuelin, and Zhong, Zhun and Wang, Zheng and Zheng, Liang},
+  booktitle={ACM International Conference on Multimedia Retrieval Workshop},
+  year={2024}
+}
+```
+
