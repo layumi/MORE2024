@@ -56,7 +56,7 @@ Submission template can be found at [ACM](https://www.acm.org/publications/proce
 ### Tips:
 
 * For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.)
-* For social good, please do not contain any misleading words, such as surveillance and secret.
+* For social good, please do not contain any misleading words, such as `surveillance` and `secret`.
 
 
 ## Organizing Team
