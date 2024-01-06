@@ -46,6 +46,19 @@ Overall, this workshop creates a unique space to explore the rapidly evolving fi
 * Object Geo-localization
 * Multimedia Re-ranking 
 
+## Submission 
+
+Submission Site TBD 
+
+Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/read/yfpxtyngmzjn).
+
+
+### Tips:
+
+* For privacy protection, please blur faces in the published materials (such as paper, video, poster, etc.)
+* For social good, please do not contain any misleading words, such as surveillance and secret.
+
+
 ## Organizing Team
 
 | <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> |<img src="https://zdzheng.xyz/files/yaxiong-wang.jpeg" width="160"> |<img src="https://github.com/layumi/MORE2024/assets/8390471/e94638ca-b2a7-4bc6-8c0f-f36228286e4b" width="160"> |
