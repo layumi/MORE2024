@@ -10,7 +10,7 @@ author_profile: false
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <img src="" margn-right="20px" ><a href="https://icmr2024.org/index.html"> ACM ICMR 2024 </a><a href="https://icmr2024.org/index.html">(https://icmr2024.org/index.html)</a>  </h2>
+  <h2> <img src="https://github.com/layumi/MORE2024/assets/8390471/3ae2eace-9f1a-419d-980d-5d4b5f8f3472" margn-right="20px" ><a href="https://icmr2024.org/index.html"> ACM ICMR 2024 </a><a href="https://icmr2024.org/index.html">(https://icmr2024.org/index.html)</a>  </h2>
  </div>
 
  
