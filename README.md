@@ -57,7 +57,7 @@ Submission template can be found at [ACM](https://www.acm.org/publications/proce
 ## Important Dates
 
 **Submission of papers:**
-* Workshop Papers Submission: 5 April 2024
+* Workshop Papers Submission: 15 April 2024
 * Workshop Papers Notification: 26 April 2024
 * Camera-ready Submission: 30 April, 2024
 * Conference Dates: 11 June 2024 – 13 June 2024
