@@ -48,10 +48,19 @@ Overall, this workshop creates a unique space to explore the rapidly evolving fi
 
 ## Submission 
 
-Submission Site TBD 
+Submission Site is at [OpenReview](https://openreview.net/group?id=ACM.org/ICMR/2024/Workshop/MORE&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)  
 
 Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/read/yfpxtyngmzjn).
 
+## Important Dates
+
+**Submission of papers:**
+* Workshop Papers Submission: 5 April 2024
+* Workshop Papers Notification: 26 April 2024
+* Camera-ready Submission: 30 April, 2024
+* Conference Dates: 11 June 2024 – 13 June 2024
+
+Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 ### Tips:
 
