@@ -12,10 +12,12 @@ author_profile: false
  <div align='center' style = "vertical-align:middle"> 
   <h2> <img src="" margn-right="20px" ><a href="https://icmr2024.org/index.html"> ACM ICMR 2024 </a><a href="https://icmr2024.org/index.html">(https://icmr2024.org/index.html)</a>  </h2>
  </div>
+
  
  <div align='center' > 
   <h2> Workshop on </h2>
   <h2>  Multimedia Object Re-ID: Advancements, Challenges, and Opportunities (MORE 2024) </h2>
+  <img src="https://github.com/layumi/MORE2024/assets/8390471/42ee2b73-a4e1-470a-932f-d1fec9ecd025" margn-right="20px" >
  </div>
 
 The accept papers will be published at ACM ICMR Workshop (top 50%), and go through the same peer review process as the regular papers. Several authors will be invited to do a oral presentation. 
