@@ -25,6 +25,8 @@ The accept papers will be published at ACM ICMR Workshop (top 50%), and go throu
 
 
 ## News
+- Paper submission site is open.
+
 
 ## Abstract
 Object re-identification (or object re-ID) has gained significant attention in recent years, fueled by the increasing demand for advanced video analysis and safety systems. In object
