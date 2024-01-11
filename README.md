@@ -56,6 +56,17 @@ Submission Site is at [OpenReview](https://openreview.net/group?id=ACM.org/ICMR/
 
 Submission template can be found at [ACM](https://www.acm.org/publications/proceedings-template) or you may directly follow the [overleaf template](https://www.overleaf.com/read/yfpxtyngmzjn).
 
+## Submission Type
+**(1).** Original papers (up to 4 pages in length, plus unlimited pages for references): original solution to the tasks in the scope of workshop topics and themes.
+
+**(2).** Position or perspective papers (up to 4 pages in length, plus unlimited pages for references): original ideas, perspectives, research vision, and open challenges in the area of evaluation approaches for explainable multimedia systems; 
+
+**(3).** Survey papers (up to 4 pages in length, plus unlimited pages for references): papers summarizing existing publications in leading conferences and high-impact journals that are relevant for the topic of the workshop;
+Page limits include diagrams and appendices. 
+
+Submissions should be single-blind due to limited publication time, written in English, and formatted according to the current ACM two-column conference format. 
+Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website (use “sigconf” proceedings template for LaTeX and the Interim Template for Word). 
+
 ## Important Dates
 
 **Submission of papers:**
