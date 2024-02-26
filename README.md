@@ -27,6 +27,7 @@ The accept papers will be published at ACM ICMR Workshop (top 50%), and go throu
 
 
 ## News
+- Good papers will be recommended to [ACM TOMM Special Issue](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM-SI_ToMM_MMGR-1708635711467.pdf). (Re-submittion is needed.) 
 - Paper submission site is open.
 
 
