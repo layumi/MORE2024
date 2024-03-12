@@ -89,7 +89,7 @@ Please note: The submission deadline is at 11:59 p.m. of the stated deadline dat
 | <img src="https://github.com/layumi/ICME2022SS/blob/main/picture/1.png?raw=true" width="160"> |<img src="https://zdzheng.xyz/files/yaxiong-wang.jpeg" width="160"> |<img src="https://github.com/layumi/MORE2024/assets/8390471/e94638ca-b2a7-4bc6-8c0f-f36228286e4b" width="160"> |
 | :-: | :-: | :-: |
 |  [Zhedong Zheng](https://zdzheng.xyz), University of Macau, China | [Yaxiong Wang](https://dblp.org/pid/202/3251.html), Hefei University of Technology, China | [Xuelin Qian](https://naiq.github.io/), Northwestern Polytechnical University, China |
-| <img src="https://zdzheng.xyz/files/zhun-zhong.jpeg" width="160"> |  <img src="https://github.com/layumi/MORE2024/assets/8390471/b24e6c16-4bf2-4393-80d4-501cf817518e" width="160"> | <img src="https://zdzheng.xyz/files/liang-zheng.jpeg" width="160"> | 
+| <img src="https://zdzheng.xyz/files/zhun-zhong.jpeg" width="160"> |  <img src="https://github.com/layumi/MORE2024/assets/8390471/b24e6c16-4bf2-4393-80d4-501cf817518e" width="160"> | <img src="https://zheng-lab.cecs.anu.edu.au/1.jpg" width="160"> | 
 |  [Zhun Zhong](https://zhunzhong.site), University of Nottingham, United Kingdom |  [Zheng Wang](https://wangzwhu.github.io/home/), Wuhan University, China |  [Liang Zheng](https://zheng-lab.cecs.anu.edu.au), Australian National University, Australia | 
 
 
