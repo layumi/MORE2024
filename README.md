@@ -71,7 +71,7 @@ Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website 
 ## Important Dates
 
 **Submission of papers:**
-* Workshop Papers Submission: 15 April 2024
+* Workshop Papers Submission: 16 April 2024
 * Workshop Papers Notification: 22 April 2024
 * Camera-ready Submission: 25 April, 2024
 * Student Travel Grant DDL： 25 April, 2024 https://icmr2024.org/student-travel-grants.html
