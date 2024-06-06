@@ -30,7 +30,14 @@ The accept papers will be published at ACM ICMR Workshop (top 50%), and go throu
 - Good papers will be recommended to [ACM TOMM Special Issue](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM-SI_ToMM_MMGR-1708635711467.pdf). (Re-submittion is needed.) 
 - Paper submission site is open.
 
-## Tentative Schedule
+## Zoom Link 
+It is free to all people who are interested！！
+
+Please click the following zoom link to join us at 9:00 am 10th June!
+https://umac.zoom.us/j/9056828016?pwd=EO8np5hw9RxqBgMsaEnK6jhru0uAJn.1&omn=98226239611
+ Password: 19931012
+
+## Tentative Schedule (Bangkok Time, GMT+7)
 - 09:00am-09.10am  Opening Remarks  Zhedong Zheng  (University of Macau)
 - 09.10am-09.40am Trustworthy Object Re-IdenIficaIon   Zhun Zhong  (University of Nottingham)
 - 09.45am-10.15am Privacy-protected Person Re-identification   Yutian Lin  (Wuhan University)
