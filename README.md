@@ -30,6 +30,20 @@ The accept papers will be published at ACM ICMR Workshop (top 50%), and go throu
 - Good papers will be recommended to [ACM TOMM Special Issue](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM-SI_ToMM_MMGR-1708635711467.pdf). (Re-submittion is needed.) 
 - Paper submission site is open.
 
+## Tentative Schedule
+- 09:00am-09.10am  Opening Remarks  Zhedong Zheng  (University of Macau)
+- 09.10am-09.40am Trustworthy Object Re-IdenIficaIon   Zhun Zhong  (University of Nottingham)
+- 09.45am-10.15am Privacy-protected Person Re-identification   Yutian Lin  (Wuhan University)
+  
+Coffee Break                                                    
+
+- 10.30am-11.00am   Task Residual for Tuning Vision-Language Models     Zhiyu Lu (NUS)
+- 11.00am-11.15am    Exploring Part Features for Unsupervised Visible-Infrared Person Re-Identification  (Workshop Oral)
+- 11.15am-11.30am  Refining Video-Based Person Re-Identification: An Integrated Framework with Facial and Body Cues (Workshop Oral)
+- 11.30am-11.45am Analytical Study of DreamGaussian and MTN in the Field of 3D Generation  (Workshop Oral)
+
+
+
 
 ## Abstract
 Object re-identification (or object re-ID) has gained significant attention in recent years, fueled by the increasing demand for advanced video analysis and safety systems. In object
@@ -75,7 +89,7 @@ Suitable LaTeX, Word, and Overleaf templates are available from the ACM Website 
 * Workshop Papers Notification: 22 April 2024
 * Camera-ready Submission: 25 April, 2024
 * Student Travel Grant DDL： 25 April, 2024 https://icmr2024.org/student-travel-grants.html
-* Conference Dates: 11 June 2024 – 13 June 2024
+* Workshop Dates: 10 June 2024
 
 Please note: The submission deadline is at 11:59 p.m. of the stated deadline date [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
