@@ -36,13 +36,13 @@ It is free to all people who are interested！！
 Please click this [zoom link](https://umac.zoom.us/j/9056828016?pwd=EO8np5hw9RxqBgMsaEnK6jhru0uAJn.1&omn=98226239611) to join us at 9:00 am 10th June! Zoom Password: 19931012
 
 ## Tentative Schedule (Bangkok Time, GMT+7, 10th June)
-- 09:00am-09.10am  Opening Remarks  Zhedong Zheng  (University of Macau)
-- 09.10am-09.40am Lifelong Person Re-identification Nan Pu (University of Trento)
-- 09.45am-10.15am Privacy-protected Person Re-identification   Yutian Lin  (Wuhan University)
+- 09:00am-09.10am  Opening Remarks  **Zhedong Zheng**  (University of Macau)
+- 09.10am-09.40am Lifelong Person Re-identification **Nan Pu** (University of Trento)
+- 09.45am-10.15am Privacy-protected Person Re-identification   **Yutian Lin**  (Wuhan University)
   
 Coffee Break                                                    
 
-- 10.30am-11.00am   Task Residual for Tuning Vision-Language Models     Zhihe Lu (NUS)
+- 10.30am-11.00am   Task Residual for Tuning Vision-Language Models     **Zhihe Lu** (NUS)
 - 11.00am-11.15am    Exploring Part Features for Unsupervised Visible-Infrared Person Re-Identification  (Workshop Oral)
 - 11.15am-11.30am  Refining Video-Based Person Re-Identification: An Integrated Framework with Facial and Body Cues (Workshop Oral)
 - 11.30am-11.45am Analytical Study of DreamGaussian and MTN in the Field of 3D Generation  (Workshop Oral)
