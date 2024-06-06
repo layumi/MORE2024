@@ -42,7 +42,7 @@ Please click this [zoom link](https://umac.zoom.us/j/9056828016?pwd=EO8np5hw9Rxq
   
 Coffee Break                                                    
 
-- 10.30am-11.00am   Task Residual for Tuning Vision-Language Models     **Zhihe Lu** (NUS)
+- 10.30am-11.00am   Few-shot Learning from Meta-learning to Efficient Tuning     **Zhihe Lu** (NUS)
 - 11.00am-11.15am    Exploring Part Features for Unsupervised Visible-Infrared Person Re-Identification  (Workshop Oral)
 - 11.15am-11.30am  Refining Video-Based Person Re-Identification: An Integrated Framework with Facial and Body Cues (Workshop Oral)
 - 11.30am-11.45am Analytical Study of DreamGaussian and MTN in the Field of 3D Generation  (Workshop Oral)
