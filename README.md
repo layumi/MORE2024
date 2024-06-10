@@ -30,10 +30,10 @@ The accept papers will be published at ACM ICMR Workshop (top 50%), and go throu
 - Good papers will be recommended to [ACM TOMM Special Issue](https://dl.acm.org/pb-assets/static_journal_pages/tomm/pdf/ACM-SI_ToMM_MMGR-1708635711467.pdf). (Re-submittion is needed.) 
 - Paper submission site is open.
 
-## Zoom Link 
-It is free to all people who are interested！！
+## Recorded Video 
+[【Youtube】](https://youtu.be/HNpVVGRci_Q ) 
 
-Please click this [zoom link](https://umac.zoom.us/j/9056828016?pwd=EO8np5hw9RxqBgMsaEnK6jhru0uAJn.1&omn=98226239611) to join us at 9:00 am 10th June! Zoom Password: 19931012
+[【Bilibili】](https://www.bilibili.com/video/BV1TS411N7fi/?vd_source=38510c91e89a1f1ac248579bb05789d1)
 
 ## Tentative Schedule (Bangkok Time, GMT+7, 10th June)
 - 09:00am-09.10am  Opening Remarks  **Zhedong Zheng**  (University of Macau)
